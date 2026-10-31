@@ -1,0 +1,14 @@
+{
+  "name": "fotostudio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.40.0",
+    "@vercel/blob": "^2.8.2",
+    "archiver": "^8.0.0"
+  }
+}
